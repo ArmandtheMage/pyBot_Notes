@@ -1,0 +1,17 @@
+Versione 1
+1. Journal
+	-Valutare se possibile/concedere creare una nota da un file di testo
+	-Gestire la discrepanza di dimensioni tra il campo della modal e quello dell'embed
+2. Dice
+	-creare un roll complesso (parametrico)
+	-creare un roll da una richiesta (tipo modale?)
+	-Creare un comando crea tiri (se possibile)
+	-Creare un Action Menù per rilanciare il comando
+3. Clock
+	-Creare comando per duplicare ?
+4. Character
+	-capire se è possibile far visualizzare un pdf (tipo modal) e farlo compilare per estrarre i dati
+	-prendere il pdf da una location esterna
+	-creare classe per accogliere i dati
+	-creare interazioni
+	-varie ed eventuali
